@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #fff;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.background {
+  min-height: 100%;
+  opacity: .4;
+}
+
+#floater {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#floater h1 {
+  font-size: 16px;
+  margin: 0;
+}
+
+#floater img {
+  height: 100px;
+  width: 135px;
+}
